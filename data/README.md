@@ -1,0 +1,1 @@
+Datos extraídos de la ANDE, monitoreo con SMS de usuarios según su consumo de energía durante aproximadamente 3 meses. Estos datos poseen una cantidad considerable de ruído y además hubieron desincronización de la medición relacionado a problemas de definición de huso horario local.
